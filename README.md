@@ -17,7 +17,7 @@ An AI-powered web application that helps job seekers match their resumes with jo
 - **Backend**: Node.js, Express, Mongoose, JWT.
 - **Database**: MongoDB (Local via Docker or Atlas).
 - **NLP**: `natural` library (TF-IDF, Cosine Similarity), `pdf-parse`, `mammoth`.
-- **Job Search**: Adzuna API integration for real-time job openings.
+- **Job Search**: Jooble API integration for real-time job openings.
 - **Optional**: Groq API for enhanced LLM-based parsing (Model: `llama-3.1-8b-instant`).
 
 ## 🚀 Quick Start
