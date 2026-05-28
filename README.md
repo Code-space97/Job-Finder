@@ -90,4 +90,4 @@ Job-Matcher/
 3. **DB**: Use MongoDB Atlas (Free Tier).
 
 ---
-Created with ❤️ by Antigravity
+
